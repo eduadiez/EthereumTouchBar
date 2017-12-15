@@ -2,7 +2,7 @@
 
 * This is an add-on to Better Touch Tool to get some ethereum projects on your MacBook Touchbar
 
-![screenshot](https://github.com/eduadiez/EthereumTouchBar/blob/master/photo.JPG)
+![screenshot](https://github.com/eduadiez/EthereumTouchBar/raw/master/photo.jpg)
 
 # Installation
 
